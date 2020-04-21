@@ -1,5 +1,5 @@
 # Ecommerce-backend
-J2EE : Angular 7 and Spring Boot
+J2EE : Angular 7 for ( Front End ) and Spring Boot (Back End )
 # About the project
 Ecommerce project developped for performing Admin and Customer user role operations with respective user interfaces.
 Working with spring boot + Angular 7 +bootstrap +mysql
